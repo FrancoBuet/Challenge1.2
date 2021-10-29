@@ -1,0 +1,35 @@
+.contenedorpadrepopup{
+    text-align: center; */propiedad para centrar cajas (div)*/
+}
+
+.popup{
+    display: inline-block;
+    text-align: center;
+
+    width: 492px;
+    height: 399px;
+    background-color: rgba(228, 220, 220, 0.596);
+    box-shadow: 1px 5px 9px rgba(128, 128, 128, 0.808);
+    
+}
+
+.contenedorelementos {
+    font-size: 20px;
+    margin-top: 13%;
+}
+
+.button {
+    padding: 20px;
+    background-color:#00366b;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    box-shadow:1px 5px 9px rgb(167, 167, 167); /* propiedad para hacer borde o sombra */
+    width: 45%;
+    font-weight: bold;
+    cursor: progress;
+}
+
+.text {
+    font-weight: bold;
+}
